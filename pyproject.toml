@@ -1,0 +1,6 @@
+[project]
+name = "ssh-config-lint"
+version = "1.0.0"
+description = "Read-only SSH client configuration auditor"
+requires-python = ">=3.10"
+dependencies = []
